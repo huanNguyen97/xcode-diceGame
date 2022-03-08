@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         
-    }
+    }   
 
     // Set event on Button
     // Set roll button clicking
